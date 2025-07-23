@@ -1,303 +1,176 @@
 <div align="center">
 
-# 🤖 AI by Doing - 机器学习实战教程
+# 👋 Hi there, I'm Lin Xiaoqiang!
 
-<img src="https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=futuristic%20AI%20brain%20with%20neural%20networks%20glowing%20blue%20circuits%20machine%20learning%20algorithms%20floating%20mathematical%20formulas%20dark%20background%20cyberpunk%20style&image_size=landscape_16_9" alt="AI by Doing" width="800"/>
+<img src="https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=futuristic%20developer%20workspace%20with%20AI%20neural%20networks%20holographic%20displays%20coding%20screens%20game%20development%20tools%20cyberpunk%20neon%20lights%20dark%20background&image_size=landscape_16_9" alt="Developer Workspace" width="800"/>
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
-[![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
-[![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org)
-
-**🚀 从零开始，用代码学习机器学习核心算法**
-
-[📚 开始学习](#-学习路径) • [🛠️ 快速开始](#️-快速开始) • [📊 算法列表](#-算法实现) • [🤝 贡献指南](#-贡献指南)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+Researcher;Full+Stack+Developer;Game+Developer;Machine+Learning+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## ✨ 项目特色
+## 🚀 About Me
 
-<div align="center">
-
-| 🎯 **实战导向** | 📈 **可视化** | 🧠 **算法深度** | 📝 **详细注释** |
-|:---:|:---:|:---:|:---:|
-| 每个算法都有完整的实现和应用案例 | 丰富的图表和可视化展示 | 从数学原理到代码实现 | 中文注释，易于理解 |
-
-</div>
-
-## 🎯 学习路径
-
-```mermaid
-graph TD
-    A[🏁 开始学习] --> B[📊 1. 线性回归]
-    B --> C[📈 2. 多项式回归]
-    C --> D[🎯 3. 岭回归和LASSO回归]
-    D --> E[📏 4. 回归模型评估]
-    E --> F[🔄 5. 逻辑回归]
-    F --> G[🔍 6. K近邻算法]
-    G --> H[🎓 完成学习]
+```python
+class LinXiaoqiang:
+    def __init__(self):
+        self.name = "Lin Xiaoqiang"
+        self.role = "AI Engineer & Full Stack Developer"
+        self.location = "China"
+        self.interests = ["Artificial Intelligence", "Full Stack Development", "Game Development"]
+        self.currently_learning = ["Deep Learning", "MLOps", "Game Engine Development"]
+        self.fun_fact = "I love turning ideas into reality through code! 🎮🤖"
     
-    style A fill:#e1f5fe
-    style H fill:#c8e6c9
-    style B fill:#fff3e0
-    style C fill:#fff3e0
-    style D fill:#fff3e0
-    style E fill:#fff3e0
-    style F fill:#f3e5f5
-    style G fill:#f3e5f5
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = LinXiaoqiang()
+me.say_hi()
 ```
 
-## 📊 算法实现
+## 🎯 What I Do
 
-### 🔢 回归算法
+<div align="center">
 
-<details>
-<summary><b>📊 1. 线性回归 (Linear Regression)</b></summary>
+| 🤖 **AI & Machine Learning** | 💻 **Full Stack Development** | 🎮 **Game Development** |
+|:---:|:---:|:---:|
+| Deep Learning & Neural Networks | Frontend & Backend Development | Unity & Unreal Engine |
+| Computer Vision & NLP | Web Applications & APIs | Game Mechanics & AI |
+| MLOps & Model Deployment | Database Design & Optimization | Interactive Experiences |
 
-- **📁 目录**: `1.线性回归/`
-- **📋 内容**: 
-  - 最小二乘法代数求解
-  - 平方损失函数实现
-  - 北京房价预测案例
-- **📊 数据集**: `challenge-1-beijing.csv`
-- **🎯 学习目标**: 理解线性关系建模的基础
+</div>
 
-```python
-def least_squares_algebraic(x, y):
-    """最小二乘法代数求解"""
-    n = x.shape[0]
-    w1 = (n * sum(x * y) - sum(x) * sum(y)) / (n * sum(x * x) - sum(x) * sum(x))
-    w0 = (sum(x * x) * sum(y) - sum(x) * sum(x * y)) / (n * sum(x * x) - sum(x) * sum(x))
-    return w0, w1
-```
+## 🛠️ Tech Stack
 
-</details>
+### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-<details>
-<summary><b>📈 2. 多项式回归 (Polynomial Regression)</b></summary>
+### 💻 Full Stack Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- **📁 目录**: `2.多项式回归/`
-- **📋 内容**: 
-  - 多项式特征扩展
-  - 非线性关系建模
-  - 比特币价格预测
-  - 疫苗效果分析
-- **📊 数据集**: 
-  - `challenge-2-bitcoin.csv`
-  - `course-6-vaccine.csv`
-- **🎯 学习目标**: 处理非线性数据关系
+### 🎮 Game Development
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
-</details>
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<details>
-<summary><b>🎯 3. 岭回归和LASSO回归 (Ridge & LASSO)</b></summary>
+## 📊 GitHub Stats
 
-- **📁 目录**: `3.岭回归和 LASSO 回归实现/`
-- **📋 内容**: 
-  - L1和L2正则化
-  - 过拟合问题解决
-  - 特征选择技术
-- **🎯 学习目标**: 理解正则化在机器学习中的重要性
+<div align="center">
 
-</details>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=linxiaoqiang&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linxiaoqiang&layout=compact&langs_count=8&theme=tokyonight"/>
 
-<details>
-<summary><b>📏 4. 回归模型评估 (Model Evaluation)</b></summary>
+</div>
 
-- **📁 目录**: `4.回归模型评估/`
-- **📋 内容**: 
-  - R²决定系数
-  - 均方误差(MSE)
-  - 平均绝对误差(MAE)
-  - 广告效果分析
-- **📊 数据集**: `advertising.csv`
-- **🎯 学习目标**: 掌握模型性能评估方法
+<div align="center">
 
-</details>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=linxiaoqiang&theme=tokyonight)](https://git.io/streak-stats)
 
-### 🧠 分类算法
+</div>
 
-<details>
-<summary><b>🔄 5. 逻辑回归 (Logistic Regression)</b></summary>
+## 🏆 GitHub Trophies
 
-- **📁 目录**: `5.逻辑回归/`
-- **📋 内容**: 
-  - Sigmoid函数
-  - 最大似然估计
-  - 二分类问题
-  - 考试通过率预测
-- **📊 数据集**: `course-8-data.csv`
-- **🎯 学习目标**: 从回归到分类的转换
+<div align="center">
 
-```python
-# 逻辑回归核心：Sigmoid函数
-def sigmoid(z):
-    return 1 / (1 + np.exp(-z))
-```
+[![trophy](https://github-profile-trophy.vercel.app/?username=linxiaoqiang&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-</details>
+</div>
 
-<details>
-<summary><b>🔍 6. K近邻算法 (K-Nearest Neighbors)</b></summary>
+## 🎯 Current Focus
 
-- **📁 目录**: `6.K近邻算法实现与应用/`
-- **📋 内容**: 
-  - 距离度量方法
-  - K值选择策略
-  - 鸢尾花分类案例
-- **📊 数据集**: `course-9-syringa.csv`
-- **🎯 学习目标**: 理解基于实例的学习方法
+- 🔭 Working on **AI-powered applications** and **machine learning projects**
+- 🌱 Learning **Advanced Deep Learning** and **MLOps practices**
+- 🎮 Developing **indie games** with AI-driven gameplay mechanics
+- 💡 Exploring **Web3** and **blockchain technologies**
+- 📚 Contributing to **open-source projects**
 
-</details>
+## 🌟 Featured Projects
 
-## 🛠️ 快速开始
+<div align="center">
 
-### 📋 环境要求
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🤖 **AI Assistant** | Intelligent chatbot with NLP capabilities | Python, TensorFlow, FastAPI |
+| 🎮 **Indie Game** | 2D platformer with procedural generation | Unity, C#, AI algorithms |
+| 💻 **Full Stack App** | E-commerce platform with real-time features | React, Node.js, MongoDB |
+| 📊 **ML Pipeline** | End-to-end machine learning workflow | Python, Docker, AWS |
 
-```bash
-# Python 3.8+
-# 推荐使用 Anaconda 或 Miniconda
-```
+</div>
 
-### 📦 依赖安装
+## 📈 Activity Graph
 
-```bash
-# 克隆项目
-git clone https://github.com/your-username/ai-by-doing.git
-cd ai-by-doing
+<div align="center">
 
-# 安装依赖
-pip install numpy pandas matplotlib scikit-learn jupyter
+[![Lin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linxiaoqiang&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# 或使用 conda
-conda install numpy pandas matplotlib scikit-learn jupyter
-```
+</div>
 
-### 🚀 开始学习
+## 🎨 Skills Visualization
 
-```bash
-# 启动 Jupyter Notebook
-jupyter notebook
+<div align="center">
 
-# 按顺序打开各个文件夹中的 main.ipynb 文件
-# 建议学习顺序：
-# 1.线性回归 → 2.多项式回归 → 3.岭回归和LASSO回归 → 
-# 4.回归模型评估 → 5.逻辑回归 → 6.K近邻算法
-```
+<img src="https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=programming%20skills%20visualization%20AI%20machine%20learning%20web%20development%20game%20development%20icons%20colorful%20tech%20stack%20modern%20design&image_size=landscape_4_3" alt="Skills Visualization" width="600"/>
 
-## 📁 项目结构
+</div>
 
-```
-ai-by-doing/
-├── 📊 1.线性回归/
-│   ├── 📓 main.ipynb          # 主要实现
-│   ├── 📓 test.ipynb          # 测试代码
-│   └── 📄 challenge-1-beijing.csv
-├── 📈 2.多项式回归/
-│   ├── 📓 main.ipynb
-│   ├── 📓 test.ipynb
-│   ├── 📄 challenge-2-bitcoin.csv
-│   └── 📄 course-6-vaccine.csv
-├── 🎯 3.岭回归和 LASSO 回归实现/
-│   ├── 📓 mian.ipynb
-│   └── 📓 test.ipynb
-├── 📏 4.回归模型评估/
-│   ├── 📓 mian.ipynb
-│   ├── 📓 test.ipynb
-│   └── 📄 advertising.csv
-├── 🔄 5.逻辑回归/
-│   ├── 📓 main.ipynb
-│   ├── 📓 test.ipynb
-│   └── 📄 course-8-data.csv
-├── 🔍 6.K近邻算法实现与应用/
-│   ├── 📓 main.ipynb
-│   └── 📄 course-9-syringa.csv
-├── 📝 README.md
-└── 🚫 .gitignore
-```
+## 🤝 Let's Connect!
 
-## 🎓 学习成果
+<div align="center">
 
-完成本教程后，你将掌握：
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linxiaoqiang)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/linxiaoqiang)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linxiaoqiang@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://linxiaoqiang.dev)
 
-- ✅ **机器学习基础理论**：理解监督学习的核心概念
-- ✅ **算法实现能力**：能够从零实现经典机器学习算法
-- ✅ **数据处理技能**：掌握数据预处理和特征工程
-- ✅ **模型评估方法**：学会评估和优化模型性能
-- ✅ **实际应用经验**：通过真实案例理解算法应用场景
-- ✅ **Python编程技能**：提升科学计算和数据分析能力
+</div>
 
-## 📚 扩展学习
+## 💭 Random Dev Quote
 
-### 📖 推荐资源
+<div align="center">
 
-- 📘 **《统计学习方法》** - 李航
-- 📗 **《机器学习》** - 周志华
-- 📙 **《Python机器学习》** - Sebastian Raschka
-- 🌐 **Coursera Machine Learning Course** - Andrew Ng
-- 🌐 **Kaggle Learn** - 免费在线课程
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔗 相关项目
+</div>
 
-- [Scikit-learn](https://github.com/scikit-learn/scikit-learn) - Python机器学习库
-- [TensorFlow](https://github.com/tensorflow/tensorflow) - 深度学习框架
-- [PyTorch](https://github.com/pytorch/pytorch) - 深度学习框架
+## 🎵 Coding Playlist
 
-## 🤝 贡献指南
+<div align="center">
 
-我们欢迎所有形式的贡献！
+*"Code is like music. When it's good, you can feel it."* 🎶
 
-### 🐛 报告问题
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/linxiaoqiang)
 
-如果你发现了bug或有改进建议，请：
-
-1. 检查是否已有相关issue
-2. 创建新的issue，详细描述问题
-3. 提供复现步骤和环境信息
-
-### 💡 贡献代码
-
-1. Fork 本项目
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 创建 Pull Request
-
-### 📝 改进文档
-
-- 修正错别字
-- 改进代码注释
-- 添加使用示例
-- 翻译文档
-
-## 📄 许可证
-
-本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
-
-## 🙏 致谢
-
-感谢所有为机器学习教育做出贡献的开发者和研究者。
-
-特别感谢：
-- 🐍 **Python社区** - 提供了强大的科学计算生态
-- 📊 **Scikit-learn团队** - 优秀的机器学习库
-- 📓 **Jupyter项目** - 交互式编程环境
-- 🎨 **Matplotlib团队** - 数据可视化工具
+</div>
 
 ---
 
 <div align="center">
 
-**⭐ 如果这个项目对你有帮助，请给我们一个星标！**
+### 🌟 "Building the future, one line of code at a time" 🌟
 
-**📧 有问题？欢迎联系我们或创建issue**
+![Visitor Count](https://profile-counter.glitch.me/linxiaoqiang/count.svg)
 
-**🔄 持续更新中... 敬请期待更多算法实现！**
-
-<img src="https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=machine%20learning%20algorithms%20visualization%20neural%20network%20nodes%20connections%20data%20flow%20colorful%20abstract%20mathematical%20formulas%20floating%20modern%20tech%20style&image_size=landscape_4_3" alt="ML Visualization" width="600"/>
+**⭐ From [linxiaoqiang](https://github.com/linxiaoqiang)**
 
 </div>
