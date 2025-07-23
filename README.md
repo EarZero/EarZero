@@ -11,19 +11,7 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-## What I Do
-
-<div align="center">
-
-|    **AI & Machine Learning**    |   **Full Stack Development**   |  **Game Development**   |
-| :-----------------------------: | :----------------------------: | :---------------------: |
-| Deep Learning & Neural Networks | Frontend & Backend Development |  Unity & Unreal Engine  |
-|      Computer Vision & NLP      |    Web Applications & APIs     |   Game Mechanics & AI   |
-|    MLOps & Model Deployment     | Database Design & Optimization | Interactive Experiences |
-
-</div>
-
-## Tech Stack
+## Stack
 
 ### AI & Machine Learning
 
