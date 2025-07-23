@@ -1,9 +1,14 @@
 <div align="center">
 
-# 👋 Hi there, I'm Lin Xiaoqiang!
+<!-- Typing Animation with Enhanced Style -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+Researcher;Full+Stack+Developer;Game+Developer;Machine+Learning+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=80&lines=🤖+AI+Engineer+%26+Researcher;💻+Full+Stack+Developer;🎮+Game+Developer;🧠+Machine+Learning+Enthusiast;🚀+Always+learning+new+things;⚡+Building+the+future+with+code)](https://git.io/typing-svg)
 
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ## About Me
@@ -59,7 +64,6 @@ class LinXiaoqiang:
         print("Let's build something amazing!")
   </pre>
 </div>
-
 </div>
 
 ## What I Do
@@ -111,18 +115,47 @@ class LinXiaoqiang:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Let's Connect
+## 🎯 Current Focus
 
 <div align="center">
 
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xiaoqiangL1003)
+```mermaid
+graph TD
+    A[🤖 AI Research] --> B[Deep Learning]
+    A --> C[Computer Vision]
+    A --> D[NLP]
+    E[💻 Full Stack] --> F[React/Vue]
+    E --> G[Node.js]
+    E --> H[Cloud Services]
+    I[🎮 Game Dev] --> J[Unity]
+    I --> K[Unreal Engine]
+    I --> L[Game AI]
+
+    style A fill:#ff6b6b
+    style E fill:#4ecdc4
+    style I fill:#45b7d1
+```
 
 </div>
 
-## Random Dev Quote
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/xiaoqiangL1003)
+
+</div>
+
+## 💭 Random Dev Quote
 
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
 </div>
