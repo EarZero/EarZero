@@ -2,8 +2,6 @@
 
 # 👋 Hi there, I'm Lin Xiaoqiang!
 
-<img src="https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=futuristic%20developer%20workspace%20with%20AI%20neural%20networks%20holographic%20displays%20coding%20screens%20game%20development%20tools%20cyberpunk%20neon%20lights%20dark%20background&image_size=landscape_16_9" alt="Developer Workspace" width="800"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+Researcher;Full+Stack+Developer;Game+Developer;Machine+Learning+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
 </div>
@@ -78,82 +76,11 @@ me.say_hi()
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
+## 🤝 Let's Connect
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=linxiaoqiang&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linxiaoqiang&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=linxiaoqiang&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=linxiaoqiang&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 🎯 Current Focus
-
-- 🔭 Working on **AI-powered applications** and **machine learning projects**
-- 🌱 Learning **Advanced Deep Learning** and **MLOps practices**
-- 🎮 Developing **indie games** with AI-driven gameplay mechanics
-- 💡 Exploring **Web3** and **blockchain technologies**
-- 📚 Contributing to **open-source projects**
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-| Project               | Description                                 | Tech Stack                  |
-| --------------------- | ------------------------------------------- | --------------------------- |
-| 🤖 **AI Assistant**   | Intelligent chatbot with NLP capabilities   | Python, TensorFlow, FastAPI |
-| 🎮 **Indie Game**     | 2D platformer with procedural generation    | Unity, C#, AI algorithms    |
-| 💻 **Full Stack App** | E-commerce platform with real-time features | React, Node.js, MongoDB     |
-| 📊 **ML Pipeline**    | End-to-end machine learning workflow        | Python, Docker, AWS         |
-
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Lin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linxiaoqiang&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/linxiaoqiang/linxiaoqiang/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-## 🎨 Skills Visualization
-
-<div align="center">
-
-<img src="https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=programming%20skills%20visualization%20AI%20machine%20learning%20web%20development%20game%20development%20icons%20colorful%20tech%20stack%20modern%20design&image_size=landscape_4_3" alt="Skills Visualization" width="600"/>
-
-</div>
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linxiaoqiang)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/linxiaoqiang)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linxiaoqiang@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://linxiaoqiang.dev)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xiaoqiangL1003)
 
 </div>
 
@@ -165,42 +92,7 @@ me.say_hi()
 
 </div>
 
-## 📊 Detailed GitHub Metrics
-
-<div align="center">
-
-![Metrics](https://metrics.lecoq.io/linxiaoqiang?template=classic&base.header=0&gists=1&lines=1&config.timezone=Asia%2FShanghai)
-
-</div>
-
-## 🎵 Now Playing on Spotify
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=linxiaoqiang&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=linxiaoqiang&redirect=true)
-
-_"Code is like music. When it's good, you can feel it."_ 🎶
-
-</div>
-
-## ⏰ WakaTime Coding Stats
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-<div align="center">
-
 ### 🌟 "Building the future, one line of code at a time" 🌟
-
-![Profile Views](https://komarev.com/ghpvc/?username=linxiaoqiang&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/linxiaoqiang?label=Followers&style=for-the-badge&color=blue)
-![GitHub User's stars](https://img.shields.io/github/stars/linxiaoqiang?label=Stars&style=for-the-badge&color=yellow)
 
 **⭐ From [linxiaoqiang](https://github.com/linxiaoqiang)**
 
