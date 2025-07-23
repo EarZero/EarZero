@@ -8,7 +8,59 @@
 
 ## About Me
 
-[![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=class+LinXiaoqiang%3A;++++def+__init__(self)%3A;++++++++self.name+%3D+%22Lin+Xiaoqiang%22;++++++++self.role+%3D+%22AI+Engineer+%26+Full+Stack+Developer%22;++++++++self.location+%3D+%22China%22;++++++++self.interests+%3D+%5B%22AI%22%2C+%22Full+Stack%22%2C+%22Game+Dev%22%5D;++++++++self.learning+%3D+%5B%22Deep+Learning%22%2C+%22MLOps%22%2C+%22Game+Engine%22%5D;++++++++self.fun_fact+%3D+%22I+love+coding!+%F0%9F%8E%AE%F0%9F%A4%96%22;++++def+say_hi(self)%3A;++++++++print(%22Let's+build+something+amazing!%22)>)](https://git.io/typing-svg)
+<div style="background-color: #000000; color: #00FF00; padding: 20px; border-radius: 10px; font-family: 'Matrix Code NFI', 'Fira Code', monospace; position: relative; overflow: hidden;">
+
+<div class="matrix-rain" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; pointer-events: none;">
+  <style>
+    @keyframes matrix-rain {
+      0% { transform: translateY(-100%); opacity: 1; }
+      100% { transform: translateY(100%); opacity: 0; }
+    }
+    .matrix-character {
+      color: #00FF00;
+      font-size: 14px;
+      animation: matrix-rain 2s linear infinite;
+      position: absolute;
+      opacity: 0.8;
+    }
+  </style>
+  <script>
+    function createMatrixRain() {
+      const container = document.querySelector('.matrix-rain');
+      const characters = '01';
+      const width = container.offsetWidth;
+      
+      setInterval(() => {
+        const span = document.createElement('span');
+        span.className = 'matrix-character';
+        span.textContent = characters[Math.floor(Math.random() * characters.length)];
+        span.style.left = Math.random() * width + 'px';
+        container.appendChild(span);
+        
+        setTimeout(() => span.remove(), 2000);
+      }, 50);
+    }
+    createMatrixRain();
+  </script>
+</div>
+
+<div style="position: relative; z-index: 1;">
+  <pre style="color: #00FF00; text-shadow: 0 0 5px #00FF00;">
+class LinXiaoqiang:
+    def __init__(self):
+        self.name = "Lin Xiaoqiang"
+        self.role = "AI Engineer & Full Stack Developer"
+        self.location = "China"
+        self.interests = ["AI", "Full Stack", "Game Dev"]
+        self.learning = ["Deep Learning", "MLOps", "Game Engine"]
+        self.fun_fact = "I love coding! 🎮🤖"
+        
+    def say_hi(self):
+        print("Let's build something amazing!")
+  </pre>
+</div>
+
+</div>
 
 ## What I Do
 
