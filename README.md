@@ -8,22 +8,7 @@
 
 ## About Me
 
-```python
-class LinXiaoqiang:
-    def __init__(self):
-        self.name = "Lin Xiaoqiang"
-        self.role = "AI Engineer & Full Stack Developer"
-        self.location = "China"
-        self.interests = ["Artificial Intelligence", "Full Stack Development", "Game Development"]
-        self.currently_learning = ["Deep Learning", "MLOps", "Game Engine Development"]
-        self.fun_fact = "I love turning ideas into reality through code! 🎮🤖"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-
-me = LinXiaoqiang()
-me.say_hi()
-```
+[![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=class+LinXiaoqiang%3A;++++def+__init__(self)%3A;++++++++self.name+%3D+%22Lin+Xiaoqiang%22;++++++++self.role+%3D+%22AI+Engineer+%26+Full+Stack+Developer%22;++++++++self.location+%3D+%22China%22;++++++++self.interests+%3D+%5B%22AI%22%2C+%22Full+Stack%22%2C+%22Game+Dev%22%5D;++++++++self.learning+%3D+%5B%22Deep+Learning%22%2C+%22MLOps%22%2C+%22Game+Engine%22%5D;++++++++self.fun_fact+%3D+%22I+love+coding!+%F0%9F%8E%AE%F0%9F%A4%96%22;++++def+say_hi(self)%3A;++++++++print(%22Let's+build+something+amazing!%22)>)](https://git.io/typing-svg)
 
 ## What I Do
 
@@ -87,11 +72,5 @@ me.say_hi()
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-### 🌟 "Building the future, one line of code at a time" 🌟
-
-**From [linxiaoqiang](https://github.com/linxiaoqiang)**
 
 </div>
