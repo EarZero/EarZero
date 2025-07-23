@@ -21,7 +21,7 @@ class LinXiaoqiang:
         self.interests = ["Artificial Intelligence", "Full Stack Development", "Game Development"]
         self.currently_learning = ["Deep Learning", "MLOps", "Game Engine Development"]
         self.fun_fact = "I love turning ideas into reality through code! 🎮🤖"
-    
+
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
 
@@ -33,17 +33,18 @@ me.say_hi()
 
 <div align="center">
 
-| 🤖 **AI & Machine Learning** | 💻 **Full Stack Development** | 🎮 **Game Development** |
-|:---:|:---:|:---:|
-| Deep Learning & Neural Networks | Frontend & Backend Development | Unity & Unreal Engine |
-| Computer Vision & NLP | Web Applications & APIs | Game Mechanics & AI |
-| MLOps & Model Deployment | Database Design & Optimization | Interactive Experiences |
+|  🤖 **AI & Machine Learning**   | 💻 **Full Stack Development**  | 🎮 **Game Development** |
+| :-----------------------------: | :----------------------------: | :---------------------: |
+| Deep Learning & Neural Networks | Frontend & Backend Development |  Unity & Unreal Engine  |
+|      Computer Vision & NLP      |    Web Applications & APIs     |   Game Mechanics & AI   |
+|    MLOps & Model Deployment     | Database Design & Optimization | Interactive Experiences |
 
 </div>
 
 ## 🛠️ Tech Stack
 
 ### 🤖 AI & Machine Learning
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -52,6 +53,7 @@ me.say_hi()
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 ### 💻 Full Stack Development
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -62,12 +64,14 @@ me.say_hi()
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🎮 Game Development
+
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
 ### 🛠️ Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -109,12 +113,12 @@ me.say_hi()
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🤖 **AI Assistant** | Intelligent chatbot with NLP capabilities | Python, TensorFlow, FastAPI |
-| 🎮 **Indie Game** | 2D platformer with procedural generation | Unity, C#, AI algorithms |
-| 💻 **Full Stack App** | E-commerce platform with real-time features | React, Node.js, MongoDB |
-| 📊 **ML Pipeline** | End-to-end machine learning workflow | Python, Docker, AWS |
+| Project               | Description                                 | Tech Stack                  |
+| --------------------- | ------------------------------------------- | --------------------------- |
+| 🤖 **AI Assistant**   | Intelligent chatbot with NLP capabilities   | Python, TensorFlow, FastAPI |
+| 🎮 **Indie Game**     | 2D platformer with procedural generation    | Unity, C#, AI algorithms    |
+| 💻 **Full Stack App** | E-commerce platform with real-time features | React, Node.js, MongoDB     |
+| 📊 **ML Pipeline**    | End-to-end machine learning workflow        | Python, Docker, AWS         |
 
 </div>
 
@@ -157,7 +161,7 @@ me.say_hi()
 
 <div align="center">
 
-*"Code is like music. When it's good, you can feel it."* 🎶
+_"Code is like music. When it's good, you can feel it."_ 🎶
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/linxiaoqiang)
 
