@@ -130,6 +130,14 @@ me.say_hi()
 
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/linxiaoqiang/linxiaoqiang/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
 ## 🎨 Skills Visualization
 
 <div align="center">
@@ -157,13 +165,30 @@ me.say_hi()
 
 </div>
 
-## 🎵 Coding Playlist
+## 📊 Detailed GitHub Metrics
 
 <div align="center">
 
+![Metrics](https://metrics.lecoq.io/linxiaoqiang?template=classic&base.header=0&gists=1&lines=1&config.timezone=Asia%2FShanghai)
+
+</div>
+
+## 🎵 Now Playing on Spotify
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=linxiaoqiang&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=linxiaoqiang&redirect=true)
+
 _"Code is like music. When it's good, you can feel it."_ 🎶
 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/linxiaoqiang)
+</div>
+
+## ⏰ WakaTime Coding Stats
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 
@@ -173,7 +198,9 @@ _"Code is like music. When it's good, you can feel it."_ 🎶
 
 ### 🌟 "Building the future, one line of code at a time" 🌟
 
-![Visitor Count](https://profile-counter.glitch.me/linxiaoqiang/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=linxiaoqiang&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/linxiaoqiang?label=Followers&style=for-the-badge&color=blue)
+![GitHub User's stars](https://img.shields.io/github/stars/linxiaoqiang?label=Stars&style=for-the-badge&color=yellow)
 
 **⭐ From [linxiaoqiang](https://github.com/linxiaoqiang)**
 
