@@ -6,9 +6,7 @@
 
 </div>
 
----
-
-## 🚀 About Me
+## About Me
 
 ```python
 class LinXiaoqiang:
@@ -27,7 +25,7 @@ me = LinXiaoqiang()
 me.say_hi()
 ```
 
-## 🎯 What I Do
+## What I Do
 
 <div align="center">
 
@@ -39,9 +37,9 @@ me.say_hi()
 
 </div>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -50,7 +48,7 @@ me.say_hi()
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-### 💻 Full Stack Development
+### Full Stack Development
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -61,14 +59,14 @@ me.say_hi()
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🎮 Game Development
+### Game Development
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -76,7 +74,7 @@ me.say_hi()
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -84,7 +82,7 @@ me.say_hi()
 
 </div>
 
-## 💭 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
 
@@ -94,6 +92,6 @@ me.say_hi()
 
 ### 🌟 "Building the future, one line of code at a time" 🌟
 
-**⭐ From [linxiaoqiang](https://github.com/linxiaoqiang)**
+**From [linxiaoqiang](https://github.com/linxiaoqiang)**
 
 </div>
