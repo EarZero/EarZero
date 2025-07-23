@@ -2,7 +2,7 @@
 
 <!-- Typing Animation with Enhanced Style -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=80&lines=🤖+AI+Engineer+%26+Researcher;💻+Full+Stack+Developer;🎮+Game+Developer;🧠+Machine+Learning+Enthusiast;🚀+Always+learning+new+things;⚡+Building+the+future+with+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=80&lines=+AI+Engineer+%26+Researcher;+Full+Stack+Developer;+Game+Developer;+Machine+Learning+Enthusiast;+Always+learning+new+things;⚡+Building+the+future+with+code)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-|  🤖 **AI & Machine Learning**   | 💻 **Full Stack Development**  | 🎮 **Game Development** |
+|    **AI & Machine Learning**    |   **Full Stack Development**   |  **Game Development**   |
 | :-----------------------------: | :----------------------------: | :---------------------: |
 | Deep Learning & Neural Networks | Frontend & Backend Development |  Unity & Unreal Engine  |
 |      Computer Vision & NLP      |    Web Applications & APIs     |   Game Mechanics & AI   |
@@ -60,30 +60,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🎯 Current Focus
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[🤖 AI Research] --> B[Deep Learning]
-    A --> C[Computer Vision]
-    A --> D[NLP]
-    E[💻 Full Stack] --> F[React/Vue]
-    E --> G[Node.js]
-    E --> H[Cloud Services]
-    I[🎮 Game Dev] --> J[Unity]
-    I --> K[Unreal Engine]
-    I --> L[Game AI]
-
-    style A fill:#ff6b6b
-    style E fill:#4ecdc4
-    style I fill:#45b7d1
-```
-
-</div>
-
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -91,7 +68,7 @@ graph TD
 
 </div>
 
-## 💭 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
 
